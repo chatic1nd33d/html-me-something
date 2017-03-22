@@ -1,0 +1,51 @@
+.network_title{
+  font-family:fantasy;
+  color:blue;
+  font-stretch:ultra-expanded;
+  text-decoration:line-through;
+  font-size: 100px;
+  text-align: center;
+}
+#anime{
+  color:red;
+  text-decoration:line-through;
+  font-family:fantasy;
+  font-stretch:expanded;
+  font-size: 100px;
+  text-align: center;
+}
+a {
+  text-align: center;
+}
+a:link{
+  color: #FF0000;
+}
+a:visited{
+  color:#3D1212;
+}
+a:hover{
+  color:#AD2929;
+}
+a:active{
+  color:#B3B1B1;
+}
+img {
+  margin-left:auto;
+  margin-right: auto;
+  display: block;
+}
+* {
+  margin-top:30px;
+  margin-bottom:30px;
+  margin-right:30px;
+  margin-left:30px;
+}
+p {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+body {
+  background: #C7EDC8;
+}
